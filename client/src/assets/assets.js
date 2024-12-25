@@ -45,7 +45,7 @@ export const testimonialsData = [
         text: "I've been using bg.removal for nearly 6 months, I had a fantastic experience. The quality is top-notch. I recommend others to try this app.",
         author: "Donald Jackman",
         image: profile_img_2,
-        jobTitle:'UI Deginer'
+        jobTitle:'UI Designer'
     },
 ];
 
